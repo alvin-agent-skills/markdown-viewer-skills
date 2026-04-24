@@ -1,10 +1,14 @@
 # Markdown Viewer 介绍
 
-> 参见 <https://github.com/markdown-viewer/skills>
+> 文档: <https://docu.md/>
 
+> 相关下载链接
+> - [Chrome 插件 (兼容 Edge) 下载](https://chromewebstore.google.com/detail/markdown-viewer/jekhhoflgcfoikceikgeenibinpojaoi)
+> - [VSCode 插件下载](https://marketplace.visualstudio.com/items?itemName=xicilion.markdown-viewer-extension)
+> - [配套 Skills 地址](https://github.com/markdown-viewer/skills)
 ---
 
-原代码库参见 [README.md](README-ORG.md), 通过 Skills 生成样例文档参见 [skills-demo](./skills-demo.md), 导出 Word 文档参见 [skills-demo-exported](./skills-demo-exported.docx)
+原代码库参见 [README.md](README-org.md), 通过 Skills 生成样例文档参见 [skills-demo](./skills-demo.md), 导出 Word 文档参见 [skills-demo-exported](./skills-demo-exported.docx)
 
 ## 一、Markdown Viewer 概述
 
